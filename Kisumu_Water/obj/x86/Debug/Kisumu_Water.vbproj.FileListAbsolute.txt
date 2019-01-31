@@ -1,0 +1,21 @@
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\bin\Debug\Kisumu_Water.exe
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\bin\Debug\Kisumu_Water.pdb
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\bin\Debug\Kisumu_Water.xml
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.Form1.resources
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.Resources.resources
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.vbproj.GenerateResource.Cache
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.exe
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.xml
+C:\Users\Raquelito\AppData\Local\Temporary Projects\Kisumu_Water\obj\x86\Debug\Kisumu_Water.pdb
+C:\Users\Raquelito\documents\visual studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.exe
+C:\Users\Raquelito\documents\visual studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.xml
+C:\Users\Raquelito\documents\visual studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.pdb
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\bin\Debug\Kisumu_Water.exe
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\bin\Debug\Kisumu_Water.pdb
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\bin\Debug\Kisumu_Water.xml
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.unmetered.resources
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.metered.resources
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.Resources.resources
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.vbproj.GenerateResource.Cache
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.ksmwater.resources
+C:\Users\Raquelito\Documents\Visual Studio 2010\Projects\Kisumu_Water\Kisumu_Water\obj\x86\Debug\Kisumu_Water.Form4.resources

@@ -1,0 +1,211 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class Form4
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form4))
+        Me.kwc = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtmeter = New System.Windows.Forms.TextBox()
+        Me.txtunit = New System.Windows.Forms.TextBox()
+        Me.txtamount = New System.Windows.Forms.TextBox()
+        Me.txtmode = New System.Windows.Forms.TextBox()
+        Me.SuspendLayout()
+        '
+        'kwc
+        '
+        Me.kwc.AutoSize = True
+        Me.kwc.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.kwc.Location = New System.Drawing.Point(29, 9)
+        Me.kwc.Name = "kwc"
+        Me.kwc.Size = New System.Drawing.Size(171, 16)
+        Me.kwc.TabIndex = 0
+        Me.kwc.Text = "Kisumu Water Company"
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(29, 25)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(195, 16)
+        Me.Label1.TabIndex = 1
+        Me.Label1.Text = "PO BOX 811. Kisumu Kenya"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(29, 41)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(212, 16)
+        Me.Label2.TabIndex = 2
+        Me.Label2.Text = "Office Phone: +254 710902227"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(411, 8)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(107, 16)
+        Me.Label3.TabIndex = 3
+        Me.Label3.Text = "Water Receipt"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(29, 148)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(105, 16)
+        Me.Label4.TabIndex = 4
+        Me.Label4.Text = "Meter Number"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.Location = New System.Drawing.Point(29, 202)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(120, 16)
+        Me.Label6.TabIndex = 6
+        Me.Label6.Text = "Units Consumed"
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.Location = New System.Drawing.Point(29, 255)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(95, 16)
+        Me.Label7.TabIndex = 7
+        Me.Label7.Text = "Amount Paid"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(29, 308)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(130, 16)
+        Me.Label8.TabIndex = 8
+        Me.Label8.Text = "Mode Of Payment"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(203, 352)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(274, 16)
+        Me.Label9.TabIndex = 9
+        Me.Label9.Text = "00006042009903475337000356752467560687"
+        '
+        'txtmeter
+        '
+        Me.txtmeter.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txtmeter.Cursor = System.Windows.Forms.Cursors.Default
+        Me.txtmeter.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtmeter.Location = New System.Drawing.Point(206, 148)
+        Me.txtmeter.Name = "txtmeter"
+        Me.txtmeter.ReadOnly = True
+        Me.txtmeter.Size = New System.Drawing.Size(100, 15)
+        Me.txtmeter.TabIndex = 10
+        '
+        'txtunit
+        '
+        Me.txtunit.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txtunit.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtunit.Location = New System.Drawing.Point(206, 202)
+        Me.txtunit.Name = "txtunit"
+        Me.txtunit.ReadOnly = True
+        Me.txtunit.Size = New System.Drawing.Size(100, 15)
+        Me.txtunit.TabIndex = 12
+        '
+        'txtamount
+        '
+        Me.txtamount.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txtamount.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtamount.Location = New System.Drawing.Point(206, 255)
+        Me.txtamount.Name = "txtamount"
+        Me.txtamount.ReadOnly = True
+        Me.txtamount.Size = New System.Drawing.Size(100, 15)
+        Me.txtamount.TabIndex = 13
+        '
+        'txtmode
+        '
+        Me.txtmode.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txtmode.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtmode.Location = New System.Drawing.Point(206, 301)
+        Me.txtmode.Name = "txtmode"
+        Me.txtmode.ReadOnly = True
+        Me.txtmode.Size = New System.Drawing.Size(100, 15)
+        Me.txtmode.TabIndex = 14
+        '
+        'Form4
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.ClientSize = New System.Drawing.Size(526, 378)
+        Me.Controls.Add(Me.txtmode)
+        Me.Controls.Add(Me.txtamount)
+        Me.Controls.Add(Me.txtunit)
+        Me.Controls.Add(Me.txtmeter)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.kwc)
+        Me.Name = "Form4"
+        Me.Text = "receipt"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents kwc As System.Windows.Forms.Label
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents Label9 As System.Windows.Forms.Label
+    Friend WithEvents txtmeter As System.Windows.Forms.TextBox
+    Friend WithEvents txtunit As System.Windows.Forms.TextBox
+    Friend WithEvents txtamount As System.Windows.Forms.TextBox
+    Friend WithEvents txtmode As System.Windows.Forms.TextBox
+End Class
